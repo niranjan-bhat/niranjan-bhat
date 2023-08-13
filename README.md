@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-bhat&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-bhat" /> </p>
 
 - 📫 How to reach me **niranjan.sirsi99@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
