@@ -1,13 +1,14 @@
 ## Hello👋, I'm Niranjan
 
-I'm a passionate Angular developer with a knack for building modern, responsive web applications. My development journey extends to .NET Core 6, where I've honed my skills in creating robust RESTful APIs. I'm dedicated to crafting efficient and user-friendly solutions that meet real-world challenges.
-
+👋 I'm a passionate Angular developer with a knack for building modern, responsive web applications. My development journey extends to .NET Core 6, where I've honed my skills in creating robust RESTful APIs. I'm dedicated to crafting efficient and user-friendly solutions that meet real-world challenges.
 
 ### What I Bring to the Table:
 - Angular expertise
 - Proficiency in .NET Core 6
 - RESTful API development
 - A commitment to clean, maintainable code
+
+Let's collaborate and create something amazing together!
 
 Let's collaborate and create something amazing together!
 <br><br>
